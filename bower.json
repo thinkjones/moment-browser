@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://github.com/thinkjones/moment-browser",
   "authors": [
-    "Gene Conroy-Jones <drgenejones@gmail.com>",
+    "Gene Conroy-Jones <drgenejones@gmail.com>"
   ],
   "description": "An extenstion to moment.js that handles conversion from UTC -> Browser Time -> Custom Time Zone (and back again).",
   "main": "moment-browser.js",
