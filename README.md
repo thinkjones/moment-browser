@@ -1,4 +1,4 @@
-Custom TimeZone Converted in the Browser [![Build Status](https://travis-ci.org/thinkjones/moment-browser.png?branch=master)](https://travis-ci.org/thinkjones/moment-browser)
+Custom TimeZone Conversion for Single Page Apps [![Build Status](https://travis-ci.org/thinkjones/moment-browser.png?branch=master)](https://travis-ci.org/thinkjones/moment-browser)
 ==================================================
 
 moment-browser.js is an extension to moment.js that helps convert Dates to/from the Browser Timezone to the TimeZone 
