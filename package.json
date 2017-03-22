@@ -1,6 +1,6 @@
 {
   "name": "moment-browser",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "description": "An extenstion to moment.js that handles conversion from UTC -> Browser Time -> Custom Time Zone (and back again). ",
   "main": "moment-browser.js",
   "scripts": {
