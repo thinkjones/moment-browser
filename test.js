@@ -3,7 +3,7 @@ var moment = require('./moment-browser'),
     momentTz = require('moment-timezone')
 
 /**
- *
+ * Test Info:
  1486054800000 === newYorkDate = Thu Feb 02 2017 09:00:00 GMT-0800 (PST)
  1486065600000 === newYorkDateInBrowser set to PST= Thu Feb 02 2017 12:00:00 GMT-0800 (PST)
  1486058400000 === newYorkDateOnePm = Thu Feb 02 2017 10:00:00 GMT-0800 (PST)
