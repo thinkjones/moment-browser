@@ -1,0 +1,29 @@
+{
+  "name": "moment-browser",
+  "version": "0.1.0",
+  "homepage": "https://github.com/thinkjones/moment-browser",
+  "authors": [
+    "Gene Conroy-Jones <drgenejones@gmail.com>",
+  ],
+  "description": "An extenstion to moment.js that handles conversion from UTC -> Browser Time -> Custom Time Zone (and back again).",
+  "main": "moment-browser.js",
+  "keywords": [
+    "momentjs",
+    "moment",
+    "date",
+    "date-format",
+    "browser-timezone",
+    "browser-conversion"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.4.0"
+  }
+}
