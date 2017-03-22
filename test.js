@@ -1,5 +1,5 @@
 var moment = require('./moment-browser'),
-    assert = require('assert')
+    assert = require('assert'),
     momentTz = require('moment-timezone')
 
 /**

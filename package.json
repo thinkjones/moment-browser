@@ -27,7 +27,8 @@
     "url": "https://github.com/thinkjones/moment-browser/issues"
   },
   "dependencies": {
-    "moment": "^2.4.0"
+    "moment": "^2.4.0",
+    "moment-timezone": "^0.5.11"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
